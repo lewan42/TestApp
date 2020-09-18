@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App by Levanov</string>
+    <string name="title_play">Прослушать аудио</string>
+    <string name="title_record">Записать аудио</string>
+    <string name="img_btn_start_stop_record">Start and stop record</string>
+    <string name="img_btn_play_and_stop_audio">Play and stop audio</string>
+</resources>
